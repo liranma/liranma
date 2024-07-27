@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liran Ma
-- 👀 I’m I am a Professor in the Department of Computer Science at Texas Christian University. My current research interests cover the security and reliability of networked information systems (such as Wi-Fi networks, cognitive radio networks, vehicular networks, sensor networks, social networks, and cloud services), and algorithms and protocols for smartphone based systems and applications (such as smart health and care), Internet of Things (IoT), artificial intelligence and security education. It involves building prototype systems, and conducting real experiments and measurements.
+- 👀 I’m I am a Professor in the Department of Computer Science and Software Engineering at Miami University. My current research interests cover the security and reliability of networked information systems (such as Wi-Fi networks, cognitive radio networks, vehicular networks, sensor networks, social networks, and cloud services), and algorithms and protocols for smartphone based systems and applications (such as smart health and care), Internet of Things (IoT), artificial intelligence and security education. It involves building prototype systems, and conducting real experiments and measurements.
 
 
 <!---
